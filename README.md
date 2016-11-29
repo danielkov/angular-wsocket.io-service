@@ -1,12 +1,12 @@
-* WSocket.io Angular Service
+# WSocket.io Angular Service
 
 The easiest way to integrate wsocket.io into your AngularJS project.
 
-** Browser support
+## Browser support
 
 This only supports browsers that come with WebSocket enabled. It has a polyfill for `String.prototype.startsWith()`.
 
-** Simple use
+## Simple use
 
 ```js
 angular.module('myApp', ['angularWsocketIOService'])
