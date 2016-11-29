@@ -1,0 +1,1 @@
+module.exports = require('./lib/wsocket.io-service');

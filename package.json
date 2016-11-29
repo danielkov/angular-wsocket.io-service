@@ -1,0 +1,26 @@
+{
+  "name": "angular-wsocket.io-service",
+  "version": "0.1.0",
+  "description": "Angular service for wsocket.io easy integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/angular-wsocket.io-service.git"
+  },
+  "keywords": [
+    "angular",
+    "service",
+    "ws",
+    "websocket",
+    "io"
+  ],
+  "author": "Daniel Kovacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkov/angular-wsocket.io-service/issues"
+  },
+  "homepage": "https://github.com/danielkov/angular-wsocket.io-service#readme"
+}
